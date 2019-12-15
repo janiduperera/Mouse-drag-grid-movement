@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{813E67F9-6199-B703-145F-574E9FBDEED0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GridMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GridMovement.cs" Line="9" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
